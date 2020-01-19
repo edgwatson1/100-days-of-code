@@ -4,6 +4,6 @@
 
 **Today's Progress**: Built a basic quote generator which displays Stoic quotes.
 
-**Thoughts:** I had to remind myself how to set up CSS from scratch well, as I'd been relying on Bootstrap containers. I'm not used to vanilla JS as I'd been doing a lot of React but it was good - and surprisingly simple. Learn something new to launch functions on page load i.e. `<body onload="codeAddress();">.`
+**Thoughts:** I had to remind myself how to set up CSS from scratch well, as I'd been relying on Bootstrap containers. I'm not used to vanilla JS as I'd been doing a lot of React but it was good - and surprisingly simple. I learnt something new to launch functions on page load i.e. `<body onload="codeAddress();">.`I used https://femmebot.github.io/google-type/ for font inspiration which was incredibly useful.
 
 **Link to work:**: https://marcusaureliusquotes.netlify.com/

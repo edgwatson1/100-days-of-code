@@ -7,3 +7,11 @@
 **Thoughts:** I had to remind myself how to set up CSS from scratch well, as I'd been relying on Bootstrap containers. I'm not used to vanilla JS as I'd been doing a lot of React but it was good - and surprisingly simple. I learnt something new to launch functions on page load i.e. `<body onload="codeAddress();">.`I used https://femmebot.github.io/google-type/ for font inspiration which was incredibly useful.
 
 **Link to work:**: https://marcusaureliusquotes.netlify.com/
+
+### Day 1: Jan 20th, 2020
+
+**Today's Progress**:  I've been working through the callbacks and higher order function challenges on @willsentance's great Javascript: The Hard Parts course (on @FrontendMasters). Revisited foreach, map, reduce etc. now knowing exactly how they work.
+
+**Thoughts:**: Reminded myself on foreach, map, reduce etc. Can see benefits of higher order functions and generalising functions in large code bases. Realising functions are first-class objects makes understanding simpler i.e. that you can pass them as arguments, return them from functions etc.
+
+**Link to work:**: https://gist.github.com/edgwatson1/c77c107ca91c046c052c13e395094071

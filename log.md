@@ -15,3 +15,11 @@
 **Thoughts:**: Reminded myself on foreach, map, reduce etc. Can see benefits of higher order functions and generalising functions in large code bases. Realising functions are first-class objects makes understanding simpler i.e. that you can pass them as arguments, return them from functions etc.
 
 **Link to work:**: https://gist.github.com/edgwatson1/c77c107ca91c046c052c13e395094071
+
+### Day 2: Jan 21th, 2020
+
+**Today's Progress**: Spent time trying to work through an authentication flow. I've created an Express/JWT/Passport/MySQL backend & separate frontend. But haven't got it working yet. Gonna resort to a tutorial on this - feel like in practice, it's simpler than I'm making it.
+
+**Thoughts:**: Authentication flow isn't obvious at first but backend is relatively new to me so I suspect t'll get easier with practice. Need to follow a tutorial on this one first I think. 
+
+**Link to work:**: https://gist.github.com/edgwatson1/c77c107ca91c046c052c13e395094071

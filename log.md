@@ -23,3 +23,13 @@
 **Thoughts:**: Authentication flow isn't obvious at first but backend is relatively new to me so I suspect t'll get easier with practice. Need to follow a tutorial on this one first I think. 
 
 **Link to work:**: https://gist.github.com/edgwatson1/c77c107ca91c046c052c13e395094071
+
+### Day 3: Jan 21th, 2020
+
+**Today's Progress**: I wanted to test out Material-UI for React. So I started building the structure for a Twitter clone frontend. To be styled and populated with faker.js at another time... https://github.com/marak/Faker.js/
+
+**Thoughts:**: Not sure to extent I can customise Material-UI components - they might end up being restrictive more than they are useful but for putting something together quickly they seem really good.
+
+Need more practice mapping over objects/arrays to render, and need to work out how to create infinite scroll effect and keeping pulling data from API as the user scrolls.
+
+**Link to work:**: https://gist.github.com/edgwatson1/c77c107ca91c046c052c13e395094071

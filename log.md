@@ -33,3 +33,8 @@
 Need more practice mapping over objects/arrays to render, and need to work out how to create infinite scroll effect and keeping pulling data from API as the user scrolls.
 
 **Link to work:**: https://gist.github.com/edgwatson1/c77c107ca91c046c052c13e395094071
+
+### Day 4: Jan 22nd, 2020
+ MySQL with Express practice, using on delete req to propogate with ON DELETE CASCADE. 
+
+**Thoughts:**: Need more practice building dbs with many tables using foreign keys. Referential Actions important to understand when designing dbs. In mySQL there is ON DELETE CASCADE, ON UPDATE CASCADE, SET NULL, NO ACTION, SET DEFAULT. Documentation here: https://dev.mysql.com/doc/refman/8.0/en/create-table-foreign-keys.html

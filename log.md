@@ -38,3 +38,20 @@ Need more practice mapping over objects/arrays to render, and need to work out h
  MySQL with Express practice, using on delete req to propogate with ON DELETE CASCADE. 
 
 **Thoughts:**: Need more practice building dbs with many tables using foreign keys. Referential Actions important to understand when designing dbs. In mySQL there is ON DELETE CASCADE, ON UPDATE CASCADE, SET NULL, NO ACTION, SET DEFAULT. Documentation here: https://dev.mysql.com/doc/refman/8.0/en/create-table-foreign-keys.html
+
+### Day 5: Jan 23rd, 2020
+
+Good day today: in my bootcamp project I'm making an interactive quiz in React and implemented some effective conditional rendering. 
+
+**Thoughts:**: I'm doing a lot of prop drilling & want to explore Context API.
+
+### Day 6: Jan 24th, 2020
+
+No coding today, hectic with friends visiting Lisbon!
+
+### Day 7: Jan 25th, 2020
+
+Working through Tony Alicea: JS Understanding The Weird Parts. Learning and revisiting crucial concepts e.g. execution contents, this keyword, never to set variables to value undefined as it causes debugging problems etc. 
+
+**Thoughts:**: Useful stuff but I need to try these things out in pratice. Need some related challenges as kthe nowledge will probably not bed in well just watching, despite it being interesting.
+Ref: https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&feature=youtu.be

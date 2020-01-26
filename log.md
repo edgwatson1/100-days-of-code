@@ -51,7 +51,7 @@ No coding today, hectic with friends visiting Lisbon!
 
 ### Day 7: Jan 25th, 2020
 
-Working through Tony Alicea: JS Understanding The Weird Parts. Learning and revisiting crucial concepts e.g. execution contents, this keyword, never to set variables to value undefined as it causes debugging problems etc. 
+Working through Tony Alicea: JS Understanding The Weird Parts. Learning and revisiting crucial concepts e.g. execution contents, this keyword, never to set variables to value undefined as it causes debugging problems etc. May make a This keyword minisite for my portfolio (Wes Bos's suggestion).
 
 **Thoughts:**: Useful stuff but I need to try these things out in pratice. Need some related challenges as kthe nowledge will probably not bed in well just watching, despite it being interesting.
 Ref: https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&feature=youtu.be

@@ -24,7 +24,7 @@
 
 **Link to work:**: https://gist.github.com/edgwatson1/c77c107ca91c046c052c13e395094071
 
-### Day 3: Jan 21th, 2020
+### Day 3: Jan 22nd, 2020
 
 **Today's Progress**: I wanted to test out Material-UI for React. So I started building the structure for a Twitter clone frontend. To be styled and populated with faker.js at another time... https://github.com/marak/Faker.js/
 
@@ -34,24 +34,32 @@ Need more practice mapping over objects/arrays to render, and need to work out h
 
 **Link to work:**: https://gist.github.com/edgwatson1/c77c107ca91c046c052c13e395094071
 
-### Day 4: Jan 22nd, 2020
+### Day 4: Jan 23rd, 2020
  MySQL with Express practice, using on delete req to propogate with ON DELETE CASCADE. 
 
 **Thoughts:**: Need more practice building dbs with many tables using foreign keys. Referential Actions important to understand when designing dbs. In mySQL there is ON DELETE CASCADE, ON UPDATE CASCADE, SET NULL, NO ACTION, SET DEFAULT. Documentation here: https://dev.mysql.com/doc/refman/8.0/en/create-table-foreign-keys.html
 
-### Day 5: Jan 23rd, 2020
+### Day 5: Jan 24th, 2020
 
 Good day today: in my bootcamp project I'm making an interactive quiz in React and implemented some effective conditional rendering. 
 
 **Thoughts:**: I'm doing a lot of prop drilling & want to explore Context API.
 
-### Day 6: Jan 24th, 2020
+### Day 6: Jan 25th, 2020
 
 No coding today, hectic with friends visiting Lisbon!
 
-### Day 7: Jan 25th, 2020
+### Day 7: Jan 26th, 2020
 
 Working through Tony Alicea: JS Understanding The Weird Parts. Learning and revisiting crucial concepts e.g. execution contents, this keyword, never to set variables to value undefined as it causes debugging problems etc. May make a This keyword minisite for my portfolio (Wes Bos's suggestion).
 
 **Thoughts:**: Useful stuff but I need to try these things out in pratice. Need some related challenges as kthe nowledge will probably not bed in well just watching, despite it being interesting.
 Ref: https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&feature=youtu.be
+
+### Day 8: Jan 27th 2020
+
+Checking out and playing with Type Coercion in JS i.e. if you use an operator to perform an operation with variables of types JS does not expect, is tries to convert the types. 
+
+Here's what coerces to what:https://thedevs.network/blog/type-coercion-in-javascript-and-why-everyone-gets-it-wrong
+
+**Thoughts** Important to understand to avoid errors. Can see use of Typescript (maybe I should learn how to use...)
